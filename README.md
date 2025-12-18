@@ -5,11 +5,11 @@ This Power BI dashboard was developed as part of my learning journey in Power BI
 ________________________________________
 📌 Key Features
 🔹 Overall Workforce Metrics
-     •	Total Employees
-     •	Active Employees
-•	Employee Attrition Count
-•	Attrition Rate (%)
-•	Average Employee Age
+-Total Employees
+-Active Employees
+-Employee Attrition Count
+-Attrition Rate (%)
+-Average Employee Age
 🔹 Attrition Analysis
 •	Department-wise Attrition (R&D, Sales, HR)
 •	Education Field-wise Attrition
