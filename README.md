@@ -41,9 +41,6 @@ Dashboard
 🚀 Tools & Technologies Used
 •	Microsoft Power BI
 •	Power Query – Data cleaning and transformation
-•	DAX – Calculated measures and KPIs
-•	Custom Visualizations
-•	Interactive Slicers & Filters
 
 🎯 What I Learned
 •	Designing HR-focused analytical dashboards
