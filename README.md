@@ -1,4 +1,4 @@
-##📊 HR Analytics Dashboard 
+📊 ##HR Analytics Dashboard 
 
 ##📝 Project Overview
 This Power BI dashboard was developed as part of my learning journey in Power BI and data analytics. The dashboard enables HR teams and decision-makers to monitor employee metrics, identify attrition patterns, and analyze workforce demographics to support data-driven HR strategies.
