@@ -32,7 +32,8 @@ ________________________________________
 
 ##Dashboard
 
-<a href="https://github.com/SanduniJayathilake2003/HR-Analytics-Dashboard/blob/main/HR%20ANALYTICS%20DASHBOARD.png">View Dashboard</a>
+<img width="1325" height="742" alt="HR ANALYTICS DASHBOARD" src="https://github.com/user-attachments/assets/114ab25e-0f13-4c1b-8a24-e09078ea0e57" />
+
 
 ________________________________________
 🚀 Tools & Technologies Used
