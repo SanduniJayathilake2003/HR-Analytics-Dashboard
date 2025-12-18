@@ -29,6 +29,11 @@ ________________________________________
 ________________________________________
 📁 Dataset
 <a href="https://github.com/SanduniJayathilake2003/HR-Analytics-Dashboard/blob/main/HR%20Data.xlsx">Dataset</a>
+
+##Dashboard
+
+<a href="https://github.com/SanduniJayathilake2003/HR-Analytics-Dashboard/blob/main/HR%20ANALYTICS%20DASHBOARD.png">View Dashboard</a>
+
 ________________________________________
 🚀 Tools & Technologies Used
 •	Microsoft Power BI
