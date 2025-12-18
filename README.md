@@ -39,8 +39,8 @@ Dashboard
 <img width="1325" height="742" alt="HR ANALYTICS DASHBOARD" src="https://github.com/user-attachments/assets/114ab25e-0f13-4c1b-8a24-e09078ea0e57" />
 
 🚀 Tools & Technologies Used
-•	Microsoft Power BI
-•	Power Query – Data cleaning and transformation
+Microsoft Power BI
+Power Query – Data cleaning and transformation
 
 🎯 What I Learned
 •	Designing HR-focused analytical dashboards
