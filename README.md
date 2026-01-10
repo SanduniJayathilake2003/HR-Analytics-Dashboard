@@ -61,8 +61,13 @@ ________________________________________________________________________________
 
 # 📌 Future Improvements
 •	Add time-based analysis (yearly/monthly attrition trends)
+
 •	Implement drill-through pages for department-level insights
+
 •	Include predictive attrition analysis
+
 •	Enhance UX with advanced tooltips
+
 •	Expand dataset with performance and salary metrics
+
 
