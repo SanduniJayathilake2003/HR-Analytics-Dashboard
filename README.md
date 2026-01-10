@@ -6,32 +6,30 @@ This Power BI dashboard was developed as part of my learning journey in Power BI
 ________________________________________
 
 📌 Key Features
-Overall Workforce Metrics
+🔹 Overall Workforce Metrics
+•	Total Employees
+•	Active Employees
+•	Employee Attrition Count
+•	Attrition Rate (%)
+•	Average Employee Age
 
--Total Employees
--Active Employees
--Employee Attrition Count
--Attrition Rate (%)
--Average Employee Age
-Attrition Analysis
-
+🔹 Attrition Analysis
 •	Department-wise Attrition (R&D, Sales, HR)
 •	Education Field-wise Attrition
 •	Age Group-wise Attrition Rate
 •	Donut and pie charts for easy comparison
 
 🔹 Employee Demographics
-
 •	Employee distribution by Age Group
 •	Gender-based employee count
 •	Workforce composition insights
-🔹 Job Satisfaction Analysis
-•	Job satisfaction ratings (1–4 scale)
-•	Satisfaction comparison across different job roles
-•	Tabular visualization for detailed analysis
+
 🔹 Interactive Filters
 •	Department slicers
 •	Dynamic visuals that respond to user selections
+
+
+
 
 📁 Dataset
 <a href="https://github.com/SanduniJayathilake2003/HR-Analytics-Dashboard/blob/main/HR%20Data.xlsx">Dataset</a>
