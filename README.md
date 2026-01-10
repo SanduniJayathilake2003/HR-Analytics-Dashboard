@@ -1,11 +1,11 @@
-📊 HR Analytics Dashboard – Power BI
+# 📊 HR Analytics Dashboard – Power BI
 
-📝 Project Overview
+# 📝 Project Overview
 
 This Power BI dashboard was developed as part of my learning journey in Power BI and data analytics. The dashboard enables HR teams and decision-makers to monitor employee metrics, identify attrition patterns, and analyze workforce demographics to support data-driven HR strategies.
 ______________________________________________________________________________________
 
-📌 Key Features
+# 📌 Key Features
 🔹 Overall Workforce Metrics
 •	Total Employees
 •	Active Employees
@@ -30,13 +30,13 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________
 
-📁 Dataset
+# 📁 Dataset
 <a href="https://github.com/SanduniJayathilake2003/HR-Analytics-Dashboard/blob/main/HR%20Data.xlsx">Dataset</a>
 
 Dashboard
 <img width="1325" height="742" alt="HR ANALYTICS DASHBOARD" src="https://github.com/user-attachments/assets/114ab25e-0f13-4c1b-8a24-e09078ea0e57" />
 _______________________________________________________________________________________
-🚀 Tools & Technologies Used
+# 🚀 Tools & Technologies Used
 
 •	Microsoft Power BI
 •	Power Query – Data cleaning and transformation
@@ -45,7 +45,7 @@ ________________________________________________________________________________
 •	Interactive Slicers & Filters
 _______________________________________________________________________________________
 
-🎯 What I Learned
+# 🎯 What I Learned
 •	Designing HR-focused analytical dashboards
 •	Creating KPIs using DAX measures
 •	Analyzing attrition trends and workforce patterns
@@ -53,7 +53,7 @@ ________________________________________________________________________________
 •	Applying business-oriented data storytelling
 _________________________________________________________________________________________
 
-📌 Future Improvements
+# 📌 Future Improvements
 •	Add time-based analysis (yearly/monthly attrition trends)
 •	Implement drill-through pages for department-level insights
 •	Include predictive attrition analysis
