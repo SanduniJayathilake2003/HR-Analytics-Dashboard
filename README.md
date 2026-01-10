@@ -20,18 +20,27 @@ ________________________________________________________________________________
 •	Average Employee Age
 
 🔹 Attrition Analysis
+
 •	Department-wise Attrition (R&D, Sales, HR)
+
 •	Education Field-wise Attrition
+
 •	Age Group-wise Attrition Rate
+
 •	Donut and pie charts for easy comparison
 
 🔹 Employee Demographics
+
 •	Employee distribution by Age Group
+
 •	Gender-based employee count
+
 •	Workforce composition insights
 
 🔹 Interactive Filters
+
 •	Department slicers
+
 •	Dynamic visuals that respond to user selections
 
 _____________________________________________________________________________________
@@ -45,17 +54,25 @@ ________________________________________________________________________________
 # 🚀 Tools & Technologies Used
 
 •	Microsoft Power BI
+
 •	Power Query – Data cleaning and transformation
+
 •	DAX – Calculated measures and KPIs
+
 •	Custom Visualizations
+
 •	Interactive Slicers & Filters
 _______________________________________________________________________________________
 
 # 🎯 What I Learned
 •	Designing HR-focused analytical dashboards
+
 •	Creating KPIs using DAX measures
+
 •	Analyzing attrition trends and workforce patterns
+
 •	Building interactive and visually appealing dashboards
+
 •	Applying business-oriented data storytelling
 _________________________________________________________________________________________
 
